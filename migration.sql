@@ -4,3 +4,5 @@ create table payment
         constraint holders_pkey
             primary key
 );
+
+drop database zoop
